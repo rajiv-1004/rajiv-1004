@@ -1,16 +1,54 @@
-# 💫 About Me: 🔭 I’m currently working on AI & ML projects<br><br>👯 I’m looking to collaborate on AI & Data Science<br><br>🌱 I’m currently learning Computer Vision & AI<br><br>💬 Ask me about Python & Machine Learning<br><br>⚡ Fun fact I love building AI solutions<br>
+![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=100&color=E63946&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Passionate+Coder;Open+Source+Enthusiast;Problem+Solver;Innovation+Builder)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RAJIV M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrajiv4969@gmail.com) 
+# Hey there, I'm [Your Name] 👋
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rajiv-1004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rajiv-1004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajiv-1004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&color=E63946)](https://github.com/YOUR_USERNAME?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&label=Stars&color=E63946)](https://github.com/YOUR_USERNAME?tab=stars)
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=E63946)](https://github.com/YOUR_USERNAME)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rajiv-1004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+| I'm a passionate **Full Stack Developer** focused on building modern, scalable web applications.<br/><br/>🌱 Currently exploring **System Design, Cloud Architecture & DevOps**<br/>🚀 Building AI-powered projects and contributing to Open Source<br/>🎯 Goal: Create products that solve real-world problems<br/>💡 Interested in web technologies, innovation, and clean code<br/>✨ Always chasing ideas worth building | [![Developer Illustration](https://img.shields.io/badge/Developer-Profile-E63946?style=for-the-badge)](https://github.com/YOUR_USERNAME) |
+| --- | --- |
+
+---
+
+## 💻 Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma,linux,bash,npm,pnpm,yarn&perline=12)
+
+---
+
+## 📈 GitHub Analytics
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=F5E6E8&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)](https://github.com/YOUR_USERNAME)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=F5E6E8&color=E63946&line=E63946&point=FF69B4&area=true&area_color=E63946&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🐍 Contribution Graph
+
+[![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg)](https://github.com/YOUR_USERNAME/YOUR_USERNAME)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-E63946?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-E63946?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
+
+---
+
+<div align="center">
+
+**See you in the next commit** 💝
+
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E63946,100:C41E3A&height=140&section=footer)
+
+</div>
