@@ -1,7 +1,4 @@
-💫 About Me:
-
-💻 I’m a Software Engineer passionate about building practical software solutions.<br><br>🌱 I’m currently learning AI, Machine Learning & modern development tools.<br><br>🚀 I’m building software and AI-driven applications.<br><br>🎯 My goal is to build reliable solutions that solve real-world problems.<br><br>🤖 I’m interested in AI, Data Science & Computer Vision.<br><br>✨ Always learning, building,
-
+# 💫 About Me: 🔭 I’m currently working on AI & ML projects<br><br>👯 I’m looking to collaborate on AI & Data Science<br><br>🌱 I’m currently learning Computer Vision & AI<br><br>💬 Ask me about Python & Machine Learning<br><br>⚡ Fun fact I love building AI solutions<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RAJIV M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrajiv4969@gmail.com) 
