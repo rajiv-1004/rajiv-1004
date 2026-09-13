@@ -10,18 +10,25 @@
   <a href="https://github.com/rajiv-1004?tab=followers">
     <img src="https://img.shields.io/github/followers/rajiv-1004?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=343A40&color=E63946" alt="GitHub Followers" />
   </a>
+
   <a href="https://github.com/rajiv-1004?tab=stars">
     <img src="https://img.shields.io/github/stars/rajiv-1004?style=for-the-badge&logo=github&label=STARS&labelColor=343A40&color=E63946" alt="GitHub Stars" />
   </a>
+
   <a href="https://github.com/rajiv-1004">
     <img src="https://komarev.com/ghpvc/?username=rajiv-1004&style=for-the-badge&label=PROFILE+VIEWS&labelColor=343A40&color=E63946" alt="Profile Views" />
   </a>
 </p>
 
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 <table align="center" width="85%">
 <tr>
+
 <td align="left">
 
 - 💻 **Software Developer** passionate about building modern web applications.<br/>
@@ -38,6 +45,7 @@
 <img src="profile.jpeg" width="180" alt="Rajiv M Profile" />
 
 </td>
+
 </tr>
 </table>
 
@@ -65,7 +73,7 @@ AI-powered application for identifying Indian food images and estimating calorie
 
 ### 🚗 Smart Parking Slot Detection System
 
-Computer vision-based parking detection system designed to identify available and occupied parking slots.
+Computer vision-based system designed to detect available and occupied parking slots.
 
 **Tech:** Python · YOLO · OpenCV
 
@@ -73,7 +81,7 @@ Computer vision-based parking detection system designed to identify available an
 
 ### 📄 Document Ranking System
 
-A text retrieval system designed to rank documents according to query relevance using information retrieval techniques.
+Text retrieval system designed to rank documents according to query relevance using information retrieval techniques.
 
 **Tech:** Python · TF-IDF · Cosine Similarity · BIM
 
@@ -148,7 +156,10 @@ Real-time face recognition system that automates attendance recording and mainta
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajiv-1004&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=rajiv-1004&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"
+  alt="GitHub Trophies"
+/>
 
 </p>
 
@@ -159,31 +170,51 @@ Real-time face recognition system that automates attendance recording and mainta
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rajiv-m-353b99245" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=343A40" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=343A40"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:mrajiv4969@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343A40" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/EMAIL-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343A40"
+    alt="Email"
+  />
 </a>
 
 <a href="https://rajiv-portfolio-kappa.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/PORTFOLIO-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=343A40" alt="Portfolio" />
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=343A40"
+    alt="Portfolio"
+  />
 </a>
 
 </p>
 
 ---
 
-### 💭 Developer Philosophy
-
-> **Build. Learn. Improve. Repeat.**
-
-**See you in the next commit** 💝
+## 💭 Developer Philosophy
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E63946,100:C41E3A&height=140&section=footer" />
+### **Build. Learn. Improve. Repeat.**
 
 </p>
 
-</div>
+---
+
+<p align="center">
+
+**See you in the next commit** 💝
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E63946,100:C41E3A&height=140&section=footer"
+  alt="Footer"
+/>
+
+</p>
