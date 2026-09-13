@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rajiv M Banner](banner.png)
+![Rajiv M Banner](banner.jpeg)
 
 # Hey there, I'm Rajiv M 👋
 
