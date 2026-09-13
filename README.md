@@ -38,7 +38,6 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-m-353b99245)
-[![Instagram](https://img.shields.io/badge/Instagram-E63946?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
 [![Email](https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
 
