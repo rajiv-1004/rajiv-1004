@@ -1,34 +1,42 @@
 <div align="center">
 
-![Rajiv M Banner](bannar.png)
-
-![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=100&color=E63946&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Passionate+Coder;Open+Source+Enthusiast;Problem+Solver;Innovation+Builder)
+![Rajiv M Banner](banner.png)
 
 # Hey there, I'm Rajiv M 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/rajiv-1004?style=for-the-badge&logo=github&label=Followers&color=E63946)](https://github.com/rajiv-1004?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/rajiv-1004?style=for-the-badge&logo=github&label=Stars&color=E63946)](https://github.com/rajiv-1004?tab=stars)
-[![Profile views](https://komarev.com/ghpvc/?username=rajiv-1004&style=for-the-badge&color=E63946)](https://github.com/rajiv-1004)
-
 ---
 
-## 👩‍💻 About Me
+![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=100&color=FF758F&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver)
+
+<p align="center">
+  <a href="https://github.com/rajiv-1004?tab=followers">
+    <img src="https://img.shields.io/github/followers/rajiv-1004?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=343A40&color=FF758F" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/rajiv-1004?tab=stars">
+    <img src="https://img.shields.io/github/stars/rajiv-1004?style=for-the-badge&logo=github&label=STARS&labelColor=343A40&color=FF758F" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/rajiv-1004">
+    <img src="https://komarev.com/ghpvc/?username=rajiv-1004&style=for-the-badge&label=PROFILE+VIEWS&labelColor=343A40&color=FF758F" alt="Profile Views" />
+  </a>
+</p>
+
+## 🧑‍💻 About Me
 
 <table align="center">
 <tr>
 <td align="left">
 
-I'm a passionate **Aspiring Software Engineer** focused on building modern, scalable web applications.<br/><br/>
-🌱 Currently exploring **System Design, Cloud Architecture & DevOps**<br/>
-🚀 Building AI-powered projects and contributing to Open Source<br/>
-🎯 Goal: Create products that solve real-world problems<br/>
-💡 Interested in web technologies, innovation, and clean code<br/>
-✨ Always chasing ideas worth building
+• 💻 Passionate **Aspiring Software Engineer** focused on building modern web applications.<br/>
+• 🌱 Currently learning **System Design, Cloud & DevOps**.<br/>
+• 🚀 Building **AI-powered projects** and contributing to Open Source.<br/>
+• 🎯 **Goal:** Create scalable products that solve real-world problems.<br/>
+• 💡 Passionate about **Machine Learning, Clean Code & Architecture**.<br/>
+• ✨ Always chasing ideas worth building.
 
 </td>
 <td align="center">
 
-[![Developer Illustration](https://img.shields.io/badge/Developer-Profile-E63946?style=for-the-badge)](https://github.com/rajiv-1004)
+[![Developer Illustration](https://img.shields.io/badge/Developer-Profile-FF758F?style=for-the-badge)](https://github.com/rajiv-1004)
 
 </td>
 </tr>
@@ -38,7 +46,7 @@ I'm a passionate **Aspiring Software Engineer** focused on building modern, scal
 
 ## 💻 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma,linux,bash,npm,pnpm,yarn&perline=12)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,postgres,mongodb,tailwind,git,github,docker,vscode,figma,linux,bash,npm,pnpm,yarn&perline=12)
 
 ---
 
@@ -46,13 +54,13 @@ I'm a passionate **Aspiring Software Engineer** focused on building modern, scal
 
 <p align="center">
   <a href="https://github.com/rajiv-1004">
-    <img src="https://streak-stats.demolab.com?user=rajiv-1004&hide_border=true&background=F5E6E8&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=rajiv-1004&hide_border=true&background=0D1117&ring=FF758F&fire=FF758F&currStreakLabel=FF758F&sideLabels=FF758F&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rajiv-1004">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-1004&bg_color=F5E6E8&color=E63946&line=E63946&point=FF69B4&area=true&area_color=E63946&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-1004&bg_color=0D1117&color=FF758F&line=FF758F&point=FF69B4&area=true&area_color=FF758F&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
@@ -72,13 +80,13 @@ I'm a passionate **Aspiring Software Engineer** focused on building modern, scal
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajiv-m-353b99245" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-FF758F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=343A40" alt="LinkedIn" />
   </a>
   <a href="mailto:mrajiv4969@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-FF758F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343A40" alt="Email" />
   </a>
   <a href="https://rajiv-portfolio-kappa.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF758F?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=343A40" alt="Portfolio" />
   </a>
 </p>
 
@@ -86,6 +94,6 @@ I'm a passionate **Aspiring Software Engineer** focused on building modern, scal
 
 **See you in the next commit** 💝
 
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E63946,100:C41E3A&height=140&section=footer)
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF758F,100:C41E3A&height=140&section=footer)
 
 </div>
