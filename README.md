@@ -1,5 +1,7 @@
 <div align="center">
 
+![Rajiv M Banner](banner.png)
+
 ![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=100&color=E63946&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Passionate+Coder;Open+Source+Enthusiast;Problem+Solver;Innovation+Builder)
 
 # Hey there, I'm Rajiv M 👋
