@@ -13,16 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: rajiv-1004
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Check generated file
+        run: |
+          echo "Generated files:"
+          ls -lah dist
+
       - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
