@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rajiv M Banner](banner.jpeg)
+<img src="banner.jpeg" alt="Rajiv M Banner" width="100%" />
 
 # Hey there, I'm Rajiv M 👋
 
