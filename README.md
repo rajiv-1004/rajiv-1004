@@ -58,12 +58,10 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/rajiv-1004/rajiv-1004">
-    <img src="https://github.com/rajiv-1004/rajiv-1004/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rajiv-1004/rajiv-1004/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
