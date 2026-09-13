@@ -58,14 +58,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajiv-1004/rajiv-1004/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
