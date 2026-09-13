@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-<table align="center" width="85%">
+<table align="center" width="75%">
 <tr>
 <td align="left">
 
@@ -34,7 +34,7 @@
 </td>
 <td align="center">
 
-<img src="profile.jpeg" width="180" alt="Developer Profile" />
+<img src="profile.jpeg" width="150" alt="Developer Profile" />
 
 </td>
 </tr>
