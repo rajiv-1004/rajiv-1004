@@ -44,7 +44,7 @@
 
 ## 💻 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,postgres,mongodb,tailwind,git,github,docker,vscode,figma,linux,bash,npm,pnpm,yarn&perline=12)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,django,flask,fastapi,tensorflow,pytorch,opencv,sklearn,mysql,postgres,mongodb,git,github,githubactions,docker,vscode,postman,vercel,npm&perline=13)
 
 ---
 
