@@ -35,7 +35,7 @@
 </td>
 <td align="center">
 
-<img src="profile.jpeg" width="190" alt="Developer Profile" />
+<img src="profile.jpeg" width="150" alt="Developer Profile" />
 
 </td>
 </tr>
