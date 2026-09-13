@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Rajiv M Banner" width="100%" height="200" />
+<img src="banner.jpeg" alt="Rajiv M Banner" width="100%" height="200" />
 
 # Hey there, I'm Rajiv M 👋
 
@@ -35,7 +35,7 @@
 </td>
 <td align="center">
 
-<img src="profile.png" width="220" alt="Developer Profile" />
+<img src="profile.jpeg" width="220" alt="Developer Profile" />
 
 </td>
 </tr>
