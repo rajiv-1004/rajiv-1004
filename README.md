@@ -5,17 +5,17 @@
 # Hey there, I'm Rajiv M 👋
 
 
-![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=100&color=FF758F&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver)
+![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=100&color=E63946&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver)
 
 <p align="center">
   <a href="https://github.com/rajiv-1004?tab=followers">
-    <img src="https://img.shields.io/github/followers/rajiv-1004?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=343A40&color=FF758F" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/rajiv-1004?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=343A40&color=E63946" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/rajiv-1004?tab=stars">
-    <img src="https://img.shields.io/github/stars/rajiv-1004?style=for-the-badge&logo=github&label=STARS&labelColor=343A40&color=FF758F" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/rajiv-1004?style=for-the-badge&logo=github&label=STARS&labelColor=343A40&color=E63946" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/rajiv-1004">
-    <img src="https://komarev.com/ghpvc/?username=rajiv-1004&style=for-the-badge&label=PROFILE+VIEWS&labelColor=343A40&color=FF758F" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=rajiv-1004&style=for-the-badge&label=PROFILE+VIEWS&labelColor=343A40&color=E63946" alt="Profile Views" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 </td>
 <td align="center">
 
-[![Developer Illustration](https://img.shields.io/badge/Developer-Profile-FF758F?style=for-the-badge)](https://github.com/rajiv-1004)
+<img src="profile.jpeg" width="190" alt="Developer Profile" />
 
 </td>
 </tr>
@@ -53,13 +53,13 @@
 
 <p align="center">
   <a href="https://github.com/rajiv-1004">
-    <img src="https://streak-stats.demolab.com?user=rajiv-1004&hide_border=true&background=0D1117&ring=FF758F&fire=FF758F&currStreakLabel=FF758F&sideLabels=FF758F&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=rajiv-1004&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rajiv-1004">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-1004&bg_color=0D1117&color=FF758F&line=FF758F&point=FF69B4&area=true&area_color=FF758F&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-1004&bg_color=0D1117&color=E63946&line=E63946&point=FF69B4&area=true&area_color=E63946&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
@@ -79,13 +79,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajiv-m-353b99245" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-FF758F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=343A40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=343A40" alt="LinkedIn" />
   </a>
   <a href="mailto:mrajiv4969@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF758F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343A40" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343A40" alt="Email" />
   </a>
   <a href="https://rajiv-portfolio-kappa.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF758F?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=343A40" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=343A40" alt="Portfolio" />
   </a>
 </p>
 
@@ -93,6 +93,6 @@
 
 **See you in the next commit** 💝
 
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF758F,100:C41E3A&height=140&section=footer)
+![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E63946,100:C41E3A&height=140&section=footer)
 
 </div>
