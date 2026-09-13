@@ -25,17 +25,17 @@
 <tr>
 <td align="left">
 
-• 💻 Passionate **Aspiring Software Engineer** focused on building modern web applications.<br/>
-• 🌱 Currently learning **System Design, Cloud & DevOps**.<br/>
-• 🚀 Building **AI-powered projects** and contributing to Open Source.<br/>
-• 🎯 **Goal:** Create scalable products that solve real-world problems.<br/>
-• 💡 Passionate about **Machine Learning, Clean Code & Architecture**.<br/>
-• ✨ Always chasing ideas worth building.
+- 💻 **Software Developer** passionate about building modern web applications.<br/>
+- 🌱 Currently improving my skills in **Python, Django, JavaScript & SQL**.<br/>
+- 🚀 Building **AI-powered projects** and exploring Open Source development.<br/>
+- 🎯 **Goal:** Create products that solve real-world problems.<br/>
+- 🌌 Passionate about **AI, Data Science, Machine Learning, and Web Development**.<br/>
+- ✨ Always learning, experimenting, and building ideas that make an impact.
 
 </td>
 <td align="center">
 
-<img src="profile.jpeg" width="160" alt="Developer Profile" />
+<img src="profile.jpeg" width="220" alt="Developer Profile" />
 
 </td>
 </tr>
