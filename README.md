@@ -2,9 +2,9 @@
 
 <img src="banner.jpeg" alt="Rajiv M Banner" width="100%" height="200" />
 
-# Hey there, I'm Rajiv
+# Hey there, I'm Rajiv 👋
 
-![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=100&color=E63946&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver)
+![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=100&color=E63946&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Enthusiast;Problem+Solver)
 
 <p align="center">
   <a href="https://github.com/rajiv-1004?tab=followers">
@@ -32,9 +32,10 @@
 - ✨ Always learning, experimenting, and building ideas that make an impact.
 
 </td>
+
 <td align="center">
 
-<img src="profile.jpeg" width="180" alt="Developer Profile" />
+<img src="profile.jpeg" width="180" alt="Rajiv M Profile" />
 
 </td>
 </tr>
@@ -44,16 +45,74 @@
 
 ## 💻 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,postgres,mongodb,tailwind,git,github,docker,vscode,figma,linux,bash,npm,pnpm,yarn&perline=12)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,express,django,fastapi,mysql,postgres,mongodb,git,github,vscode,linux&perline=9" />
+
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🍱 Smart Food Classification & Calorie Estimation
+
+AI-powered application for identifying Indian food images and estimating calorie values.
+
+**Tech:** Python · TensorFlow · Keras · CNN · Flask · OpenCV
+
+---
+
+### 🚗 Smart Parking Slot Detection System
+
+Computer vision-based parking detection system designed to identify available and occupied parking slots.
+
+**Tech:** Python · YOLO · OpenCV
+
+---
+
+### 📄 Document Ranking System
+
+A text retrieval system designed to rank documents according to query relevance using information retrieval techniques.
+
+**Tech:** Python · TF-IDF · Cosine Similarity · BIM
+
+---
+
+### 👤 Face Detection Attendance System
+
+Real-time face recognition system that automates attendance recording and maintains timestamped records.
+
+**Tech:** Python · OpenCV · CSV
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/rajiv-1004">
-    <img src="https://streak-stats.demolab.com?user=rajiv-1004&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-  </a>
+
+<a href="https://github.com/rajiv-1004">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajiv-1004&show_icons=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=FFFFFF&bg_color=0D1117" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiv-1004&layout=compact&hide_border=true&title_color=E63946&text_color=FFFFFF&bg_color=0D1117" />
+
+</a>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<a href="https://github.com/rajiv-1004">
+
+<img src="https://streak-stats.demolab.com?user=rajiv-1004&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+
+</a>
+
 </p>
 
 ---
@@ -61,9 +120,36 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/rajiv-1004/rajiv-1004">
-    <img src="https://github.com/rajiv-1004/rajiv-1004/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </a>
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/rajiv-1004/rajiv-1004/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/rajiv-1004/rajiv-1004/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/rajiv-1004/rajiv-1004/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</picture>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajiv-1004&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
 </p>
 
 ---
@@ -71,21 +157,33 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajiv-m-353b99245" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=343A40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mrajiv4969@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343A40" alt="Email" />
-  </a>
-  <a href="https://rajiv-portfolio-kappa.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=343A40" alt="Portfolio" />
-  </a>
+
+<a href="https://www.linkedin.com/in/rajiv-m-353b99245" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=343A40" alt="LinkedIn" />
+</a>
+
+<a href="mailto:mrajiv4969@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=343A40" alt="Email" />
+</a>
+
+<a href="https://rajiv-portfolio-kappa.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/PORTFOLIO-E63946?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=343A40" alt="Portfolio" />
+</a>
+
 </p>
 
 ---
 
+### 💭 Developer Philosophy
+
+> **Build. Learn. Improve. Repeat.**
+
 **See you in the next commit** 💝
 
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E63946,100:C41E3A&height=140&section=footer)
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E63946,100:C41E3A&height=140&section=footer" />
+
+</p>
 
 </div>
