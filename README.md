@@ -4,7 +4,6 @@
 
 # Hey there, I'm Rajiv M 👋
 
----
 
 ![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=100&color=FF758F&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver)
 
