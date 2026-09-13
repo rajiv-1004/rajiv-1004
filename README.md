@@ -2,8 +2,7 @@
 
 <img src="banner.jpeg" alt="Rajiv M Banner" width="100%" height="200" />
 
-# Hey there, I'm Rajiv M 👋
-
+# Hey there, I'm Rajiv
 
 ![Developer Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=100&color=E63946&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver)
 
@@ -54,12 +53,6 @@
 <p align="center">
   <a href="https://github.com/rajiv-1004">
     <img src="https://streak-stats.demolab.com?user=rajiv-1004&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/rajiv-1004">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajiv-1004&bg_color=0D1117&color=E63946&line=E63946&point=FF69B4&area=true&area_color=E63946&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
