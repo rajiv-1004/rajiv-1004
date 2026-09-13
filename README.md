@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpeg" alt="Rajiv M Banner" width="100%" />
+<img src="banner.jpeg" alt="Rajiv M Banner" width="80%" />
 
 # Hey there, I'm Rajiv M 👋
 
